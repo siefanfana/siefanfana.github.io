@@ -1,0 +1,33 @@
+
+  h1{
+    color:black;
+    font-family: helvetica, sans-serif;
+    font-size:50px;
+    text-shadow:2px 0px 0px white;
+    text-align: left;
+    margin: 30px;
+    margin-top: 50px;
+    }
+  h4{
+    color:#545c68;
+    font-family: helvetica, sans-serif;
+    font-size: 25px;
+    text-shadow: 0px 1px 0px white;
+    text-align: left;
+    margin: 30px;
+    margin-top: 140px;
+    }
+  p {
+    text-indent: 20px;
+    }
+  body{
+    font-family: helvetica, sans-serif;
+    background-color:#d7d9e2;
+    color:black;
+      }
+
+  .content{
+    line-height: 1.5em;
+    margin-left:30px;
+    margin-right: 230px;
+          }
